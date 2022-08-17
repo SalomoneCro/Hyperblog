@@ -1,4 +1,4 @@
 Hola, soy Pedro Salomone
 Tengo 19 años
 
-Estoy aprendiendo Git
+Estoy aprendiendo Python
