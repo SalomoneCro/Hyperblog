@@ -1,4 +1,6 @@
 Hola, soy Pedro Salomone
 Tengo 19 años
 
+Master 1
+
 Estoy aprendiendo Python y Finanzas Quant
